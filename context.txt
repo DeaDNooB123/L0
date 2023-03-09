@@ -1,0 +1,348 @@
+чокер|subj_чокер|context|--context-subject="чокер" --query="чокер" @sort: --apply-self-ranker=false|preset=77007046|presets/bucket_5
+футляр|subj_футляр|context|--context-subject="футляр" --query="футляр" @sort: --apply-self-ranker=false|preset=77013385|presets/bucket_6
+бочки для напитков|subj_бочка для_напиток|context|--context-subject="бочка" --query="бочки для напитков" @sort: --apply-self-ranker=false|preset=20001708|presets/bucket_16
+термобелье для женщин|для_женщина subj_термобелье|context|--context-subject="термобелье" --query="термобелье для женщин" @sort: --apply-self-ranker=false|preset=10061158&kind=0;2|presets/bucket_17
+топ|subj_топ|context|--context-subject="топ" --query="топ" @sort: --apply-self-ranker=false|preset=77100518|presets/bucket_17
+инструменты|subj_инструмент|context|--context-subject="инструмент" --query="инструменты" @sort: --apply-self-ranker=false|preset=10004119|presets/bucket_25
+сантехника|subj_сантехника|context|--context-subject="сантехника" --query="сантехника" @sort: --apply-self-ranker=false|preset=10006923|presets/bucket_25
+кофта женская|для_женщина subj_кофта|context|--context-subject="кофта" --query="кофта женская" @sort: --apply-self-ranker=false|preset=77006024&kind=0;2|presets/bucket_28
+кофта женская осенняя|для_женщина subj_кофта subj_осень|context|--context-subject="кофта" --query="кофта женская осенняя"|preset=10146985&kind=0;2|presets/bucket_28
+шорты детские|для_детей subj_шорты|context|--context-subject="шорты" --query="шорты детские" @sort: --apply-self-ranker=false|preset=77000332&kind=3;5;6|presets/bucket_32
+шорты для мужиков|для_мужик subj_шорты|context|--context-subject="шорты" --query="шорты для мужиков" @sort: --apply-self-ranker=false|preset=77004046&kind=0;1|presets/bucket_32
+садовая техника|садовый subj_техника|context|--context-subject="садовая техника" --query="садовая техника" @sort: --apply-self-ranker=false|preset=77080391|presets/bucket_35
+очки женские|для_женщина subj_очки|context|--context-subject="очки" --query="очки женские" @sort: --apply-self-ranker=false|preset=77100538&kind=0;2|presets/bucket_44
+очки для девочки|для_девочка subj_очки|context|--context-subject="очки" --query="очки для девочки" @sort: --apply-self-ranker=false|preset=77100542&kind=3;5|presets/bucket_44
+худи мужское|для_мужчина худи|context|--context-subject="худи" --query="худи мужское" @sort: --apply-self-ranker=false|preset=77000347&kind=0;1|presets/bucket_57
+кармашки для вещей|для_вещь subj_кармашек|context|--context-subject="кармашки в шкафчик" --query="кармашки для вещей" @sort: --apply-self-ranker=false|preset=77017011|presets/bucket_69
+палатка|subj_палатка|context|--context-subject="палатка" --query="палатка" @sort: --apply-self-ranker=false|preset=77001472|presets/bucket_71
+тележка хозяйственная|subj_тележка хозяйственный|context|--context-subject="тележка" --query="тележка хозяйственная" @sort: --apply-self-ranker=false|preset=77006028|presets/bucket_71
+толстовка для девочки|для_девочка subj_толстовка|context|--context-subject="толстовка" --query="толстовка для девочки" @sort: --apply-self-ranker=false|preset=77000866&kind=3;5|presets/bucket_84
+костюмы|subj_костюм|context|--context-subject="костюм" --query="костюмы" @sort: --apply-self-ranker=false|preset=77019057|presets/bucket_85
+детские костюмы|для_детей subj_костюм|context|--context-subject="костюм" --query="детские костюмы" @sort: --apply-self-ranker=false|preset=77000338&kind=3;5;6|presets/bucket_104
+пиджаки|subj_пиджак|context|--context-subject="пиджак" --query="пиджаки" @sort: --apply-self-ranker=false|preset=77004043|presets/bucket_112
+джемпер детский на девочку|subj_джемпер для_девочка для_детей|context|--context-subject="джемпер" --query="джемпер детский на девочку" @sort: --apply-self-ranker=false|preset=77000328&kind=3;5|presets/bucket_129
+пижама для мальчика|для_мальчик subj_пижама|context|--context-subject="пижама" --query="пижама для мальчика" @sort: --apply-self-ranker=false|preset=77000001&kind=3;6|presets/bucket_129
+халаты для девочек|для_девочка subj_халат|context|--context-subject="халат домашний" --query="халаты для девочек" @sort: --apply-self-ranker=false|preset=77001085&kind=3;5|presets/bucket_134
+ковер|subj_ковер|context|--context-subject="ковер" --query="ковер" @sort: --apply-self-ranker=false|preset=77007017|presets/bucket_137
+костюм для плавания|subj_костюм плавательный|context|--context-subject="костюм" --query="костюм для плавания" @sort: --apply-self-ranker=false|preset=77001428|presets/bucket_153
+купальники женские|для_женщина subj_купальник|context|--context-subject="купальник" --query="купальники женские" @sort: --apply-self-ranker=false|preset=77100537&kind=0;2|presets/bucket_153
+спортивная одежда для девочек|для_девочка subj_одежда спортивный|context|--context-subject="спортивная одежда" --query="спортивная одежда для девочек" @sort: --apply-self-ranker=false|preset=77001457&kind=3;5|presets/bucket_153
+телефон|subj_телефон|context|--context-subject="телефон" --query="телефон" @sort: --apply-self-ranker=false|preset=77001325|presets/bucket_154
+джемперы|subj_джемпер|context|--context-subject="джемпер" --query="джемперы" @sort: --apply-self-ranker=false|preset=77001379|presets/bucket_155
+кофты для девочек|для_девочка subj_кофта|context|--context-subject="кофта" --query="кофты для девочек" @sort: --apply-self-ranker=false|preset=77001381&kind=3;5|presets/bucket_155
+купальники для пляжа|subj_купальник пляжный|context|--context-subject="купальник" --query="купальники для пляжа" @sort: --apply-self-ranker=false|preset=77001382&kind=0;2|presets/bucket_155
+купальные костюмы для мужчин|для_мужчина subj_костюм плавательный|context|--context-subject="костюм" --query="купальные костюмы для мужчин" @sort: --apply-self-ranker=false|preset=77001384&kind=0;1|presets/bucket_155
+бутылка|subj_бутылка|context|--context-subject="бутылка" --query="бутылка" @sort: --apply-self-ranker=false|preset=77001371|presets/bucket_169
+комбинезон|subj_комбинезон|context|--context-subject="комбинезон" --query="комбинезон" @sort: --apply-self-ranker=false|preset=1037|presets/bucket_182
+трусы для девочек|для_девочка subj_трусы|context|--context-subject="трусы" --query="трусы для девочек" @sort: --apply-self-ranker=false|preset=77000402&kind=3;5|presets/bucket_188
+плавки для девочки|для_девочка subj_плавки|context|--context-subject="плавки" --query="плавки для девочки" @sort: --apply-self-ranker=false|preset=77100540&kind=3;5|presets/bucket_189
+топ женский|для_женщина subj_топ|context|--context-subject="топ" --query="топ женский" @sort: --apply-self-ranker=false|preset=77019062&kind=0;2|presets/bucket_198
+шорты для девочки|для_девочка subj_шорты|context|--context-subject="шорты" --query="шорты для девочки" @sort: --apply-self-ranker=false|preset=77019068&kind=3;5|presets/bucket_198
+ремешок|subj_ремешок|context|--context-subject="ремешок" --query="ремешок"|preset=110001174|presets/bucket_199
+уходовая косметика|subj_косметика уходовая|context|--context-subject="косметика" --query="уходовая косметика" @sort: --apply-self-ranker=false|preset=77100516|presets/bucket_207
+матрас для сна|для_сон subj_матрас|context|--context-subject="матрас" --query="матрас для сна" @sort: --apply-self-ranker=false|preset=77000761|presets/bucket_212
+матрас|subj_матрас|context|--context-subject="матрас" --query="матрас" @sort: --apply-self-ranker=false|preset=77000720|presets/bucket_212
+матрас резиновый|из_резина subj_матрас|context|--context-subject="матрас" --query="матрас резиновый"|preset=77000786|presets/bucket_212
+пижама детская|для_детей subj_пижама|context|--context-subject="пижама" --query="пижама детская" @sort: --apply-self-ranker=false|preset=77001203&kind=3;5;6|presets/bucket_213
+белье домашнее|subj_белье домашний|context|--context-subject="белье" --query="белье домашнее"|preset=77001078|presets/bucket_215
+игрушки 0|0 subj_игрушка|context|--context-subject="игрушка" --query="игрушки 0"|preset=77001186|presets/bucket_222
+детские украшения|для_детей subj_украшение|context|--context-subject="украшение" --query="детские украшения" @sort: --apply-self-ranker=false|preset=77015081&kind=3;5;6|presets/bucket_230
+сетки|subj_сетка|context|--context-subject="сетка" --query="сетки" @sort: --apply-self-ranker=false|preset=77004116|presets/bucket_230
+боди и купальники|боди и купальник|context|--context-subject="боди" --query="боди и купальники" @sort: --apply-self-ranker=false|preset=77010009|presets/bucket_232
+дом|subj_дом|context|--context-subject="дом" --query="дом"|preset=77100024|presets/bucket_232
+купальники закрытые для женщин|для_женщина закрытый subj_купальник|context|--context-subject="купальник" --query="купальники закрытые для женщин" @sort: --apply-self-ranker=false|preset=77002016&kind=0;2|presets/bucket_232
+купальник|subj_купальник|context|--context-subject="купальник" --query="купальник" @sort: --apply-self-ranker=false|preset=6265|presets/bucket_232
+купальные костюмы для детей|для_детей subj_костюм плавательный|context|--context-subject="костюм" --query="купальные костюмы для детей" @sort: --apply-self-ranker=false|preset=77000657&kind=3;5;6|presets/bucket_232
+купальные костюмы женские|для_женщина subj_костюм плавательный|context|--context-subject="костюм" --query="купальные костюмы женские" @sort: --apply-self-ranker=false|preset=10034084&kind=0;2|presets/bucket_232
+контейнер для льда|для_лед subj_контейнер|context|--context-subject="контейнер" --query="контейнер для льда"|preset=77000823|presets/bucket_234
+лента|subj_лента|context|--context-subject="лента" --query="лента"|preset=77007044|presets/bucket_234
+формы|subj_форма|context|--context-subject="форма" --query="формы"|preset=77007048|presets/bucket_234
+автоэлектроника|subj_автоэлектроника|context|--context-subject="автоэлектроника" --query="автоэлектроника" @sort: --apply-self-ranker=false|preset=20001372|presets/bucket_235
+магнитола|subj_магнитола|context|--context-subject="магнитола" --query="магнитола" @sort: --apply-self-ranker=false|preset=10036378|presets/bucket_235
+декор|subj_декор|context|--context-subject="декор" --query="декор"|preset=77009040|presets/bucket_236
+парфюмерная вода для женщин|subj_вода для_женщина парфюмерный|context|--context-subject="парфюмерная вода" --query="парфюмерная вода для женщин"|preset=77100522|presets/bucket_236
+парфюм|subj_парфюм|context|--context-subject="парфюм" --query="парфюм" @sort: --apply-self-ranker=false|preset=77100520|presets/bucket_236
+средства|subj_средство|context|--context-subject="средство" --query="средства"|preset=77009042|presets/bucket_236
+flash-накопитель|flash-накопитель|context|--context-subject="flash-накопитель" --query="flash-накопитель" @sort: --apply-self-ranker=false|preset=10003049|presets/bucket_239
+накладки|subj_накладка|context|--context-subject="накладка" --query="накладки"|preset=77020009|presets/bucket_240
+шампунь для волос|для_волос subj_шампунь|context|--context-subject="шампунь" --query="шампунь для волос" @sort: --apply-self-ranker=false|preset=201000174|presets/bucket_240
+праймеры|subj_праймер|context|--context-subject="праймер" --query="праймеры" @sort: --apply-self-ranker=false|preset=22822833|presets/bucket_242
+защита|subj_защита|context|--context-subject="защита" --query="защита"|preset=10009414|presets/bucket_254
+столешница|subj_столешница|context|--context-subject="столешница" --query="столешница" @sort: --apply-self-ranker=false|preset=77017028|presets/bucket_254
+чехлы в машину|в_машина subj_чехол|context|--context-subject="чехол" --query="чехлы в машину" @sort: --apply-self-ranker=false|preset=77000310|presets/bucket_254
+шины|subj_шина|context|--context-subject="шина" --query="шины" @sort: --apply-self-ranker=false|preset=77009062|presets/bucket_257
+наклейки|subj_наклейка|context|--context-subject="наклейка" --query="наклейки" @sort: --apply-self-ranker=false|preset=77000351|presets/bucket_261
+камера на телефон|subj_камера на_телефон|context|--context-subject="камера" --query="камера на телефон" @sort: --apply-self-ranker=false|preset=77002002|presets/bucket_262
+защитная пленка|защитный subj_пленка|context|--context-subject="защитная пленка" --query="защитная пленка"|preset=77031003|presets/bucket_264
+пленка|subj_пленка|context|--context-subject="пленка" --query="пленка" @sort: --apply-self-ranker=false|preset=77004106|presets/bucket_264
+диск|subj_диск|context|--context-subject="диск" --query="диск"|preset=10213372|presets/bucket_270
+щетка|subj_щетка|context|--context-subject="щетка" --query="щетка" @sort: --apply-self-ranker=false|preset=77004080|presets/bucket_273
+электрощетка|subj_электрощетка|context|--context-subject="электрощетка" --query="электрощетка"|preset=77080382|presets/bucket_273
+боди|боди|context|--context-subject="боди" --query="боди" @sort: --apply-self-ranker=false|preset=77000342|presets/bucket_275
+боди для девочки|боди для_девочка|context|--context-subject="боди" --query="боди для девочки" @sort: --apply-self-ranker=false|preset=77000322&kind=3;5|presets/bucket_275
+боди для мальчика|боди для_мальчик|context|--context-subject="боди" --query="боди для мальчика" @sort: --apply-self-ranker=false|preset=77000321&kind=3;6|presets/bucket_275
+боди женское|боди для_женщина|context|--context-subject="боди" --query="боди женское" @sort: --apply-self-ranker=false|preset=77000316&kind=0;2|presets/bucket_275
+матрас пеленальный|subj_матрас пеленальный|context|--context-subject="матрас пеленальный" --query="матрас пеленальный" @sort: --apply-self-ranker=false|preset=77000754|presets/bucket_275
+одежда для мальчиков|для_мальчик subj_одежда|context|--context-subject="одежда" --query="одежда для мальчиков" @sort: --apply-self-ranker=false|preset=77100504&kind=3;6|presets/bucket_275
+шпатлевка|subj_шпатлевка|context|--context-subject="шпатлевка" --query="шпатлевка" @sort: --apply-self-ranker=false|preset=77020047|presets/bucket_278
+толстовка|subj_толстовка|context|--context-subject="толстовка" --query="толстовка" @sort: --apply-self-ranker=false|preset=77020045|presets/bucket_279
+худи|худи|context|--context-subject="худи" --query="худи" @sort: --apply-self-ranker=false|preset=77020051|presets/bucket_279
+посуда|subj_посуда|context|--context-subject="посуда" --query="посуда" @sort: --apply-self-ranker=false|preset=77000900|presets/bucket_286
+полотенце|subj_полотенце|context|--context-subject="полотенце" --query="полотенце" @sort: --apply-self-ranker=false|preset=77002076|presets/bucket_297
+набор для любимой|для_любимая subj_набор|context|--context-subject="набор" --query="набор для любимой"|preset=77003048|presets/bucket_300
+подарочный набор|subj_набор subj_подарок|context|--context-subject="набор" --query="подарочный набор" @sort: --apply-self-ranker=false|preset=77001566|presets/bucket_300
+зеркало|subj_зеркало|context|--context-subject="зеркало" --query="зеркало" @sort: --apply-self-ranker=false|preset=10200586|presets/bucket_305
+лестницы|subj_лестница|context|--context-subject="лестница" --query="лестницы" @sort: --apply-self-ranker=false|preset=10064695|presets/bucket_309
+одежда для подростков мальчиков|мальчик subj_одежда subj_подросток|context|--context-subject="одежда" --query="одежда для подростков мальчиков" @sort: --apply-self-ranker=false|preset=10362260&kind=0;1;3;6|presets/bucket_313
+свитшот|subj_свитшот|context|--context-subject="свитшот" --query="свитшот" @sort: --apply-self-ranker=false|preset=77020050|presets/bucket_313
+пояса|subj_пояс|context|--context-subject="пояс" --query="пояса" @sort: --apply-self-ranker=false|preset=77100068|presets/bucket_318
+платья для девочек|для_девочка subj_платье|context|--context-subject="платье" --query="платья для девочек" @sort: --apply-self-ranker=false|preset=77017038&kind=3;5|presets/bucket_319
+бумага|subj_бумага|context|--context-subject="бумага" --query="бумага" @sort: --apply-self-ranker=false|preset=77000022|presets/bucket_328
+подарок мальчику|мальчик subj_подарок|context|--context-subject="подарки" --query="подарок мальчику" @sort: --apply-self-ranker=false|preset=77001243|presets/bucket_330
+чехол к телефону|к_телефон subj_чехол|context|--context-subject="чехол" --query="чехол к телефону" @sort: --apply-self-ranker=false|preset=77012098|presets/bucket_332
+редис|subj_редис|context|--context-subject="редис" --query="редис" @sort: --apply-self-ranker=false|preset=10435|presets/bucket_334
+камера|subj_камера|context|--context-subject="камера" --query="камера" @sort: --apply-self-ranker=false|preset=77000890|presets/bucket_338
+наборы|subj_набор|context|--context-subject="набор" --query="наборы"|preset=201000172|presets/bucket_350
+футболка взрослая|взрослый subj_футболка|context|--context-subject="футболка" --query="футболка взрослая" @sort: --apply-self-ranker=false|preset=77100517&kind=0;1;2|presets/bucket_355
+летние вещи для девочки|subj_вещь для_девочка на_лето|context|--context-subject="одежда" --query="летние вещи для девочки" @sort: --apply-self-ranker=false|preset=77001414&kind=3;5|presets/bucket_357
+одежда для девочек|для_девочка subj_одежда|context|--context-subject="одежда" --query="одежда для девочек" @sort: --apply-self-ranker=false|preset=77001412&kind=3;5|presets/bucket_357
+детский матрас|для_детей subj_матрас|context|--context-subject="матрас" --query="детский матрас" @sort: --apply-self-ranker=false|preset=10012214|presets/bucket_384
+матрас в кроватку|в_кроватка subj_матрас|context|--context-subject="матрас" --query="матрас в кроватку" @sort: --apply-self-ranker=false|preset=77000790|presets/bucket_384
+спортивный комплекс для детей|для_детей subj_комплекс спортивный|context|--context-subject="спортивный комплекс для детей" --query="спортивный комплекс для детей" @sort: --apply-self-ranker=false|preset=10158499|presets/bucket_385
+подарок девочке|девочка subj_подарок|context|--context-subject="подарки" --query="подарок девочке" @sort: --apply-self-ranker=false|preset=77001194|presets/bucket_390
+платки|subj_платок|context|--context-subject="платок" --query="платки" @sort: --apply-self-ranker=false|preset=77100067|presets/bucket_393
+защита багажа|багаж subj_защита|context|--context-subject="защита" --query="защита багажа"|preset=77100214|presets/bucket_401
+шайка для бани|для_баня subj_шайка|context|--context-subject="шайка" --query="шайка для бани" @sort: --apply-self-ranker=false|preset=111334|presets/bucket_407
+морковь|subj_морковь|context|--context-subject="морковь" --query="морковь" @sort: --apply-self-ranker=false|preset=10438|presets/bucket_408
+беседка для дачи|subj_беседка для_дача|context|--context-subject="беседка" --query="беседка для дачи"|preset=77000417|presets/bucket_409
+панели|subj_панель|context|--context-subject="панель" --query="панели" @sort: --apply-self-ranker=false|preset=77001069|presets/bucket_411
+худи женское|для_женщина худи|context|--context-subject="худи" --query="худи женское" @sort: --apply-self-ranker=false|preset=10205499&kind=0;2|presets/bucket_422
+кофемолка|subj_кофемолка|context|--context-subject="кофемолка" --query="кофемолка" @sort: --apply-self-ranker=false|preset=77001963|presets/bucket_433
+подставка|subj_подставка|context|--context-subject="подставка" --query="подставка"|preset=77000062|presets/bucket_433
+витамины бад|бад subj_витамин|context|--context-subject="витаминные комплексы" --query="витамины бад" @sort: --apply-self-ranker=false|preset=10070051|presets/bucket_445
+спортивный топ женский|для_женщина спортивный subj_топ|context|--context-subject="топ" --query="спортивный топ женский" @sort: --apply-self-ranker=false|preset=77000092&kind=0;2|presets/bucket_457
+украшения на праздник|на_праздник subj_украшение|context|--context-subject="украшение" --query="украшения на праздник" @sort: --apply-self-ranker=false|preset=77004101|presets/bucket_458
+елки|subj_елка|context|--context-subject="елка" --query="елки" @sort: --apply-self-ranker=false|preset=77001109|presets/bucket_461
+формочки|subj_формочка|context|--context-subject="формочка" --query="формочки"|preset=77007049|presets/bucket_470
+здоровье|subj_здоровье|context|--context-subject="здоровье" --query="здоровье"|preset=77100201|presets/bucket_473
+полотенце банное|для_баня subj_полотенце|context|--context-subject="полотенце" --query="полотенце банное" @sort: --apply-self-ranker=false|preset=77000970|presets/bucket_481
+цветы|subj_цветы|context|--context-subject="цветы" --query="цветы"|preset=77009038|presets/bucket_482
+воск для свечей|subj_воск для_свеча|context|--context-subject="воск для свечей" --query="воск для свечей" @sort: --apply-self-ranker=false|preset=77030096|presets/bucket_486
+шампунь|subj_шампунь|context|--context-subject="шампунь" --query="шампунь" @sort: --apply-self-ranker=false|preset=19347430|presets/bucket_488
+полукомбинезоны|subj_полукомбинезон|context|--context-subject="полукомбинезон" --query="полукомбинезоны" @sort: --apply-self-ranker=false|preset=77000515|presets/bucket_491
+шляпа|subj_шляпа|context|--context-subject="шляпа" --query="шляпа" @sort: --apply-self-ranker=false|preset=77000854|presets/bucket_492
+зонт садовый|subj_зонт садовый|context|--context-subject="зонт" --query="зонт садовый" @sort: --apply-self-ranker=false|preset=77100221|presets/bucket_508
+дорожка для бега|для_бег subj_дорожка|context|--context-subject="дорожка" --query="дорожка для бега" @sort: --apply-self-ranker=false|preset=77012033|presets/bucket_526
+постельное белье новорожденным|subj_белье новорожденный постельный|context|--context-subject="постельное белье" --query="постельное белье новорожденным" @sort: --apply-self-ranker=false|preset=10013596|presets/bucket_530
+коробочка под ювелирные украшения|subj_коробочка под_ювелирный украшение|context|--context-subject="коробочка" --query="коробочка под ювелирные украшения" @sort: --apply-self-ranker=false|preset=77002030|presets/bucket_531
+мужские цепочки|для_мужчина subj_цепочка|context|--context-subject="цепочка" --query="мужские цепочки" @sort: --apply-self-ranker=false|preset=10019459&kind=0;1|presets/bucket_534
+пирсинг|subj_пирсинг|context|--context-subject="пирсинг" --query="пирсинг" @sort: --apply-self-ranker=false|preset=77004029|presets/bucket_534
+цепочка|subj_цепочка|context|--context-subject="цепочка" --query="цепочка" @sort: --apply-self-ranker=false|preset=77009060|presets/bucket_534
+дождевик для мальчиков|для_мальчик subj_дождевик|context|--context-subject="дождевик" --query="дождевик для мальчиков" @sort: --apply-self-ranker=false|preset=77020056&kind=3;6|presets/bucket_536
+бандана|бандана|context|--context-subject="бандана" --query="бандана" @sort: --apply-self-ranker=false|preset=77000908|presets/bucket_540
+платки детские|для_детей subj_платок|context|--context-subject="платок" --query="платки детские" @sort: --apply-self-ranker=false|preset=77100069&kind=3;5;6|presets/bucket_540
+полка|subj_полка|context|--context-subject="полка" --query="полка" @sort: --apply-self-ranker=false|preset=10005781|presets/bucket_557
+корректоры|subj_корректор|context|--context-subject="корректор" --query="корректоры"|preset=22822842|presets/bucket_560
+ходунки|subj_ходунки|context|--context-subject="ходунки" --query="ходунки" @sort: --apply-self-ranker=false|preset=77100003|presets/bucket_565
+одежда для женщин больших размеров|большой для_женщина subj_одежда размер|context|--context-subject="одежда" --query="одежда для женщин больших размеров" @sort: --apply-self-ranker=false|preset=77080409&kind=0;2|presets/bucket_578
+кардиган для девочек детский|для_девочка для_детей subj_кардиган|context|--context-subject="кардиган" --query="кардиган для девочек детский" @sort: --apply-self-ranker=false|preset=77009049&kind=3;5|presets/bucket_579
+комплект|subj_комплект|context|--context-subject="комплект" --query="комплект"|preset=77004082|presets/bucket_580
+краска|subj_краска|context|--context-subject="краска" --query="краска" @sort: --apply-self-ranker=false|preset=77004099|presets/bucket_580
+натуральная зимняя обувь|для_зима натуральный subj_обувь|context|--context-subject="обувь" --query="натуральная зимняя обувь" @sort: --apply-self-ranker=false|preset=77007024|presets/bucket_580
+средства для ванной|в_ванная subj_средство|context|--context-subject="средство" --query="средства для ванной"|preset=77100035|presets/bucket_580
+джемпер детский на мальчика|subj_джемпер для_детей для_мальчик|context|--context-subject="джемпер" --query="джемпер детский на мальчика" @sort: --apply-self-ranker=false|preset=10046200&kind=3;6|presets/bucket_583
+пэстис|subj_пэстис|context|--context-subject="пэстис" --query="пэстис" @sort: --apply-self-ranker=false|preset=22822813|presets/bucket_584
+пантолеты|subj_пантолеты|context|--context-subject="пантолеты" --query="пантолеты" @sort: --apply-self-ranker=false|preset=10094483|presets/bucket_586
+контейнер для хранения|для_хранение subj_контейнер|context|--context-subject="контейнер" --query="контейнер для хранения" @sort: --apply-self-ranker=false|preset=77015129|presets/bucket_589
+игрушки детские|для_детей subj_игрушка|context|--context-subject="игрушка" --query="игрушки детские" @sort: --apply-self-ranker=false|preset=77100022|presets/bucket_594
+игрушки для развития|для_развитие subj_игрушка|context|--context-subject="игрушка" --query="игрушки для развития"|preset=77001402|presets/bucket_594
+игрушки мальчикам|subj_игрушка мальчик|context|--context-subject="игрушка" --query="игрушки мальчикам" @sort: --apply-self-ranker=false|preset=77100014|presets/bucket_594
+нож|subj_нож|context|--context-subject="нож" --query="нож" @sort: --apply-self-ranker=false|preset=77080022|presets/bucket_604
+перчатки и варежки для девочек|subj_варежка для_девочка и subj_перчатка|context|--context-subject="варежки и перчатки" --query="перчатки и варежки для девочек" @sort: --apply-self-ranker=false|preset=77100106&kind=3;5|presets/bucket_606
+перчатки и варежки для детей|subj_варежка для_детей и subj_перчатка|context|--context-subject="варежки и перчатки" --query="перчатки и варежки для детей" @sort: --apply-self-ranker=false|preset=77100105&kind=3;5;6|presets/bucket_606
+перчатки и варежки для женщин|subj_варежка для_женщина и subj_перчатка|context|--context-subject="варежки и перчатки" --query="перчатки и варежки для женщин" @sort: --apply-self-ranker=false|preset=77100104&kind=0;2|presets/bucket_606
+перчатки и варежки для мальчиков|subj_варежка для_мальчик и subj_перчатка|context|--context-subject="варежки и перчатки" --query="перчатки и варежки для мальчиков" @sort: --apply-self-ranker=false|preset=77100107&kind=3;6|presets/bucket_606
+перчатки и варежки для мужчин|subj_варежка для_мужчина и subj_перчатка|context|--context-subject="варежки и перчатки" --query="перчатки и варежки для мужчин" @sort: --apply-self-ranker=false|preset=77100103&kind=0;1|presets/bucket_606
+очки мужские|для_мужчина subj_очки|context|--context-subject="очки" --query="очки мужские" @sort: --apply-self-ranker=false|preset=77100539&kind=0;1|presets/bucket_616
+очки|subj_очки|context|--context-subject="очки" --query="очки" @sort: --apply-self-ranker=false|preset=124536565|presets/bucket_616
+спортивные мужские очки|для_мужчина subj_очки спортивный|context|--context-subject="очки спортивные" --query="спортивные мужские очки" @sort: --apply-self-ranker=false|preset=77100070&kind=0;1|presets/bucket_616
+шторка|subj_шторка|context|--context-subject="шторка" --query="шторка"|preset=77012058|presets/bucket_618
+трафареты для творчества|для_творчество subj_трафарет|context|--context-subject="трафарет" --query="трафареты для творчества" @sort: --apply-self-ranker=false|preset=77012026|presets/bucket_619
+кофты|subj_кофта|context|--context-subject="кофта" --query="кофты" @sort: --apply-self-ranker=false|preset=77000767|presets/bucket_621
+мужская кофта|для_мужчина subj_кофта|context|--context-subject="кофта" --query="мужская кофта" @sort: --apply-self-ranker=false|preset=77001229&kind=0;1|presets/bucket_621
+повязка детская на голову|для_детей на_голова subj_повязка|context|--context-subject="повязки на голову" --query="повязка детская на голову" @sort: --apply-self-ranker=false|preset=10973&kind=3;5;6|presets/bucket_628
+длинные брюки|subj_брюки длинный|context|--context-subject="брюки" --query="длинные брюки" @sort: --apply-self-ranker=false|preset=77016082|presets/bucket_632
+ножницы|subj_ножницы|context|--context-subject="ножницы" --query="ножницы" @sort: --apply-self-ranker=false|preset=10094|presets/bucket_647
+одежда с логотипом|subj_одежда с_логотип|context|--context-subject="одежда" --query="одежда с логотипом"|preset=77000003|presets/bucket_650
+толстовка для мальчика|для_мальчик subj_толстовка|context|--context-subject="толстовка" --query="толстовка для мальчика" @sort: --apply-self-ranker=false|preset=77001054&kind=3;6|presets/bucket_650
+чехлы из эко кожи|из_эко кожа subj_чехол|context|--context-subject="чехол" --query="чехлы из эко кожи"|preset=10007126|presets/bucket_654
+нижнее белье для девочек|subj_белье для_девочка нижний|context|--context-subject="нижнее белье" --query="нижнее белье для девочек" @sort: --apply-self-ranker=false|preset=77000630&kind=3;5|presets/bucket_657
+топ для девочки|для_девочка subj_топ|context|--context-subject="топ" --query="топ для девочки" @sort: --apply-self-ranker=false|preset=77002006&kind=3;5|presets/bucket_657
+трусы для малыша|для_малыш subj_трусы|context|--context-subject="трусы для малыша" --query="трусы для малыша" @sort: --apply-self-ranker=false|preset=77001298&kind=3;5;6|presets/bucket_657
+пульт управления|subj_пульт управление|context|--context-subject="пульт" --query="пульт управления" @sort: --apply-self-ranker=false|preset=10129907|presets/bucket_663
+картина|subj_картина|context|--context-subject="картина" --query="картина" @sort: --apply-self-ranker=false|preset=77100515|presets/bucket_666
+табурет|subj_табурет|context|--context-subject="табурет" --query="табурет" @sort: --apply-self-ranker=false|preset=77012087|presets/bucket_670
+шкаф|subj_шкаф|context|--context-subject="шкаф" --query="шкаф" @sort: --apply-self-ranker=false|preset=77000701|presets/bucket_670
+одежда детская летняя|для_детей на_лето subj_одежда|context|--context-subject="одежда" --query="одежда детская летняя"|preset=77007019&kind=3;5;6|presets/bucket_673
+футболка спортивная|спортивный subj_футболка|context|--context-subject="футболка" --query="футболка спортивная" @sort: --apply-self-ranker=false|preset=77000641|presets/bucket_673
+футболки и топы|и subj_топ subj_футболка|context|--context-subject="футболка топ" --query="футболки и топы" @sort: --apply-self-ranker=false|preset=77001547|presets/bucket_673
+игра|subj_игра|context|--context-subject="игра" --query="игра"|preset=77012059|presets/bucket_678
+подводки|subj_подводка|context|--context-subject="подводка" --query="подводки" @sort: --apply-self-ranker=false|preset=77100234|presets/bucket_688
+кружка в подарок|в_подарок subj_кружка|context|--context-subject="кружка" --query="кружка в подарок" @sort: --apply-self-ranker=false|preset=77000439|presets/bucket_690
+резиновая обувь|из_резина subj_обувь|context|--context-subject="обувь" --query="резиновая обувь"|preset=77100113|presets/bucket_693
+сноубутсы|subj_сноубутсы|context|--context-subject="сноубутсы" --query="сноубутсы" @sort: --apply-self-ranker=false|preset=77003042|presets/bucket_695
+постер|subj_постер|context|--context-subject="постер" --query="постер" @sort: --apply-self-ranker=false|preset=77100227|presets/bucket_699
+картофельные хлопья|картофельный subj_хлопья|context|--context-subject="хлопья картофельные" --query="картофельные хлопья" @sort: --apply-self-ranker=false|preset=10464|presets/bucket_700
+пляжная одежда для девочек|для_девочка subj_одежда пляжный|context|--context-subject="одежда пляжный" --query="пляжная одежда для девочек"|preset=77100546&kind=3;5|presets/bucket_717
+очки для компьютера женские|для_женщина на_компьютер subj_очки|context|--context-subject="очки для компьютера" --query="очки для компьютера женские" @sort: --apply-self-ranker=false|preset=77000895&kind=0;2|presets/bucket_728
+садовый инвентарь|subj_инвентарь садовый|context|--context-subject="инвентарь садовый" --query="садовый инвентарь" @sort: --apply-self-ranker=false|preset=77100219|presets/bucket_734
+краска для волос|для_волос subj_краска|context|--context-subject="краска для волос" --query="краска для волос" @sort: --apply-self-ranker=false|preset=77100232|presets/bucket_735
+красота|subj_красота|context|--context-subject="красота" --query="красота"|preset=77100233|presets/bucket_735
+плед и покрывало|и subj_плед subj_покрывало|context|--context-subject="покрывало плед" --query="плед и покрывало" @sort: --apply-self-ranker=false|preset=77100549|presets/bucket_735
+резинка|subj_резинка|context|--context-subject="резинка" --query="резинка" @sort: --apply-self-ranker=false|preset=230228016|presets/bucket_780
+шаветка|шаветка|context|--context-subject="бритва" --query="шаветка" @sort: --apply-self-ranker=false|preset=10203876|presets/bucket_14
+эспадрильи обувь|subj_обувь subj_эспадрильи|context|--context-subject="эспадрильи" --query="эспадрильи обувь"|preset=77002033|presets/bucket_20
+шорты женские спорт|для_женщина спортивный subj_шорты|context|--context-subject="шорты" --query="шорты женские спорт" @sort: --apply-self-ranker=false|preset=10001046&kind=0;2|presets/bucket_32
+все для сада и дачи|все дача для_сад и|context|--context-subject="все для садоводства" --query="все для сада и дачи"|preset=77000724|presets/bucket_35
+бриджи спортивное для женщин|subj_бридж для_женщина спортивный|context|--context-subject="бриджи" --query="бриджи спортивное для женщин" @sort: --apply-self-ranker=false|preset=200000554&kind=0;2|presets/bucket_36
+сумка в виде|в_вид subj_сумка|context|--context-subject="сумки" --query="сумка в виде"|preset=77000978|presets/bucket_77
+для телефона|для_телефон|context|--context-subject="аксессуары для смартфона" --query="для телефона"|preset=77000622|presets/bucket_92
+аксессуары для мобильных|subj_аксессуар для_мобильный|context|--context-subject="аксессуары для смартфона" --query="аксессуары для мобильных" @sort: --apply-self-ranker=false|preset=77001335|presets/bucket_154
+аксессуары на телефон|subj_аксессуар на_телефон|context|--context-subject="аксессуары для смартфона" --query="аксессуары на телефон" @sort: --apply-self-ranker=false|preset=77001455|presets/bucket_153
+белье и купальники|subj_белье и subj_купальник|context|--context-subject="белье" --query="белье и купальники" @sort: --apply-self-ranker=false|preset=77009058|presets/bucket_110
+часы женские|для_женщина subj_час|context|--context-subject="часы" --query="часы женские"|preset=77001602&kind=0;2|presets/bucket_115
+часы мужские|для_мужчина subj_час|context|--context-subject="часы" --query="часы мужские" @sort: --apply-self-ranker=false|preset=10106605&kind=0;1|presets/bucket_115
+кеды на физру|subj_кед на_физру|context|--context-subject="кеды" --query="кеды на физру" @sort: --apply-self-ranker=false|preset=77100111&kind=0;3;5;6|presets/bucket_144
+книги|subj_книга|context|--context-subject="книги" --query="книги" @sort: --apply-self-ranker=false|preset=77000194|presets/bucket_155
+книги литература|subj_книга subj_литература|context|--context-subject="книги" --query="книги литература" @sort: --apply-self-ranker=false|preset=77000910|presets/bucket_155
+кофточки на мальчика|для_мальчик subj_кофта|context|--context-subject="кофта" --query="кофточки на мальчика" @sort: --apply-self-ranker=false|preset=77001391&kind=3;6|presets/bucket_155
+сапоги для девочки|для_девочка subj_сапожок|context|--context-subject="сапоги" --query="сапоги для девочки" @sort: --apply-self-ranker=false|preset=77001397&kind=3;5|presets/bucket_155
+бриджи детские|subj_бридж для_детей|context|--context-subject="бриджи" --query="бриджи детские" @sort: --apply-self-ranker=false|preset=77000938&kind=3;5;6|presets/bucket_188
+носки для девочки|для_девочка subj_носок|context|--context-subject="носки" --query="носки для девочки" @sort: --apply-self-ranker=false|preset=77015077&kind=3;5|presets/bucket_202
+носки для мальчика|для_мальчик subj_носок|context|--context-subject="носки" --query="носки для мальчика" @sort: --apply-self-ranker=false|preset=77015076&kind=3;6|presets/bucket_202
+кровать|subj_кровать|context|--context-subject="кровати" --query="кровать" @sort: --apply-self-ranker=false|preset=77001370|presets/bucket_212
+мужская сумка спорт|для_мужчина спортивный subj_сумка|context|--context-subject="сумки" --query="мужская сумка спорт" @sort: --apply-self-ranker=false|preset=77000733&kind=0;1|presets/bucket_218
+жилетка мужская|для_мужчина subj_жилет|context|--context-subject="жилет" --query="жилетка мужская" @sort: --apply-self-ranker=false|preset=77030010&kind=0;1|presets/bucket_222
+духи для женщин|для_женщина subj_дух|context|--context-subject="духи" --query="духи для женщин"|preset=77100523|presets/bucket_236
+духи|subj_дух|context|--context-subject="духи" --query="духи"|preset=77100521|presets/bucket_236
+патч для глаз|для_глаз subj_патч|context|--context-subject="патчи" --query="патч для глаз" @sort: --apply-self-ranker=false|preset=11000|presets/bucket_244
+бриджи для девочки|subj_бридж для_девочка|context|--context-subject="бриджи" --query="бриджи для девочки" @sort: --apply-self-ranker=false|preset=77000819&kind=3;5|presets/bucket_271
+бриджи на мальчика|subj_бридж для_мальчик|context|--context-subject="бриджи" --query="бриджи на мальчика" @sort: --apply-self-ranker=false|preset=77000920&kind=3;6|presets/bucket_271
+сумка мужская|для_мужчина subj_сумка|context|--context-subject="сумки" --query="сумка мужская"|preset=77020035&kind=0;1|presets/bucket_271
+стельки|subj_стелька|context|--context-subject="стельки" --query="стельки" @sort: --apply-self-ranker=false|preset=77006016|presets/bucket_273
+простыня|subj_простынь|context|--context-subject="простыни" --query="простыня" @sort: --apply-self-ranker=false|preset=77007053|presets/bucket_396
+мини пылесос|mini subj_пылесос|context|--context-subject="пылесос" --query="мини пылесос" @sort: --apply-self-ranker=false|preset=77001020|presets/bucket_469
+варежки|subj_варежка|context|--context-subject="варежки" --query="варежки" @sort: --apply-self-ranker=false|preset=77000428|presets/bucket_606
+варежки детские|subj_варежка для_детей|context|--context-subject="варежки" --query="варежки детские" @sort: --apply-self-ranker=false|preset=77000429&kind=3;5;6|presets/bucket_606
+варежки для девочки|subj_варежка для_девочка|context|--context-subject="варежки" --query="варежки для девочки" @sort: --apply-self-ranker=false|preset=77000430&kind=3;5|presets/bucket_606
+варежки для мальчика|subj_варежка для_мальчик|context|--context-subject="варежки" --query="варежки для мальчика" @sort: --apply-self-ranker=false|preset=77000431&kind=3;6|presets/bucket_606
+варежки мужские|subj_варежка для_мужчина|context|--context-subject="варежки" --query="варежки мужские" @sort: --apply-self-ranker=false|preset=10024976&kind=0;1|presets/bucket_606
+кепка бейсболка для мальчика|subj_бейсболка для_мальчик subj_кепка|context|--context-subject="бейсболка" --query="кепка бейсболка для мальчика"|preset=77001369&kind=3;6|presets/bucket_628
+шапка детская|для_детей subj_шапка|context|--context-subject="шапки" --query="шапка детская" @sort: --apply-self-ranker=false|preset=10023456&kind=3;5;6|presets/bucket_628
+шапки для девочек|для_девочка subj_шапка|context|--context-subject="шапки" --query="шапки для девочек" @sort: --apply-self-ranker=false|preset=77040011&kind=3;5|presets/bucket_628
+час|subj_час|context|--context-subject="часы" --query="час" @sort: --apply-self-ranker=false|preset=77030007|presets/bucket_630
+резиновые сапоги|из_резина subj_сапожок|context|--context-subject="резиновые сапоги" --query="резиновые сапоги" @sort: --apply-self-ranker=false|preset=77000060|presets/bucket_638
+ сад огород садовый инвентарь|subj_инвентарь subj_огород subj_сад садовый|context|--context-subject="все для садоводства" --query=" сад огород садовый инвентарь"|preset=77100222|presets/bucket_734
+духи мужские|для_мужчина subj_дух|context|--context-subject="духи" --query="духи мужские"|preset=1379394|presets/bucket_784
+плоскогубцы|subj_плоскогубцы|context|--context-subject="пасатижи" --query="плоскогубцы" @sort: --apply-self-ranker=false|preset=10018637|presets/bucket_25
+блузки и туники|subj_блузка и subj_туника|context|--context-subject="одежда" --query="блузки и туники" @sort: --apply-self-ranker=false|preset=77017002|presets/bucket_28
+джемперы и толстовки|subj_джемпер и subj_толстовка|context|--context-subject="одежда" --query="джемперы и толстовки" @sort: --apply-self-ranker=false|preset=20005442|presets/bucket_28
+футболки и майки|и subj_майка subj_футболка|context|--context-subject="одежда" --query="футболки и майки" @sort: --apply-self-ranker=false|preset=77001546|presets/bucket_673
+костюмы и комбинезоны|и subj_комбинезон subj_костюм|context|--context-subject="одежда" --query="костюмы и комбинезоны" @sort: --apply-self-ranker=false|preset=77004071|presets/bucket_182
+половики|subj_половик|context|--context-subject="ковер" --query="половики" @sort: --apply-self-ranker=false|preset=77009029|presets/bucket_69
+для книг|для_книга|context|--context-subject="хранение книг" --query="для книг"|preset=77000913|presets/bucket_153
+пляж|subj_пляж|context|--context-subject="одежда пляжный" --query="пляж"|preset=77100541|presets/bucket_153
+творчество и рукоделие|и subj_рукоделие subj_творчество|context|--context-subject="рукоделие" --query="творчество и рукоделие" @sort: --apply-self-ranker=false|preset=77001456|presets/bucket_153
+ткань подклад|subj_подклад subj_ткань|context|--context-subject="рукоделие" --query="ткань подклад"|preset=77000817|presets/bucket_154
+книги бумажные|бумажный subj_книга|context|--context-subject="книги" --query="книги бумажные" @sort: --apply-self-ranker=false|preset=77000640|presets/bucket_155
+одежда офис|subj_одежда subj_офис|context|--context-subject="одежда" --query="одежда офис"|preset=77001407|presets/bucket_155
+офисная для женщин|для_женщина офисный|context|--context-subject="одежда" --query="офисная для женщин" @sort: --apply-self-ranker=false|preset=77001409&kind=0;2|presets/bucket_155
+текстиль|subj_текстиль|context|--context-subject="дом" --query="текстиль" @sort: --apply-self-ranker=false|preset=77001408|presets/bucket_155
+товары для бани|для_баня subj_товар|context|--context-subject="красота" --query="товары для бани" @sort: --apply-self-ranker=false|preset=77001377|presets/bucket_155
+гостиная|subj_гостиная|context|--context-subject="шторы и аксессуары" --query="гостиная"|preset=77007084|presets/bucket_230
+база|subj_база|context|--context-subject="красота" --query="база" @sort: --apply-self-ranker=false|preset=77009044|presets/bucket_242
+слипы для новорожденных|новорожденный subj_слип|context|--context-subject="одежда для малышей" --query="слипы для новорожденных" @sort: --apply-self-ranker=false|preset=77000004|presets/bucket_182
+лепка|subj_лепка|context|--context-subject="рукоделие" --query="лепка"|preset=10015484|presets/bucket_193
+мужской уход|для_мужчина subj_уход|context|--context-subject="красота" --query="мужской уход"|preset=20007878|presets/bucket_202
+для волос|для_волос|context|--context-subject="красота" --query="для волос"|preset=22822803|presets/bucket_203
+для глаз|для_глаз|context|--context-subject="красота" --query="для глаз"|preset=22822820|presets/bucket_203
+для кожи|для_кожа|context|--context-subject="красота" --query="для кожи"|preset=77001570|presets/bucket_203
+для лица|для_лицо|context|--context-subject="красота" --query="для лица"|preset=22822815|presets/bucket_203
+для рук|для_рука|context|--context-subject="красота" --query="для рук"|preset=22822826|presets/bucket_203
+для тела|для_тело|context|--context-subject="красота" --query="для тела"|preset=22822817|presets/bucket_203
+уход за лицом|за_лицо subj_уход|context|--context-subject="красота" --query="уход за лицом"|preset=77001575|presets/bucket_203
+уход|subj_уход|context|--context-subject="красота" --query="уход"|preset=22822841|presets/bucket_203
+матрас взрослый|subj_взрослый subj_матрас|context|--context-subject="матрас" --query="матрас взрослый" @sort: --apply-self-ranker=false|preset=10194869|presets/bucket_212
+костюмы и комбинезоны для мужчин|для_мужчина и subj_комбинезон subj_костюм|context|--context-subject="одежда" --query="костюмы и комбинезоны для мужчин" @sort: --apply-self-ranker=false|preset=20005194&kind=0;1|presets/bucket_230
+антистресс|subj_антистресс|context|--context-subject="игрушки" --query="антистресс"|preset=77100001|presets/bucket_234
+для женщин на лето|для_женщина на_лето|context|--context-subject="одежда" --query="для женщин на лето"|preset=101361845&kind=0;2|presets/bucket_234
+лента бордюр|subj_бордюр subj_лента|context|--context-subject="лента бордюрная" --query="лента бордюр" @sort: --apply-self-ranker=false|preset=77018009|presets/bucket_234
+штаны|subj_брюки|context|--context-subject="одежда" --query="штаны" @sort: --apply-self-ranker=false|preset=77002115|presets/bucket_271
+штаны осенние|subj_брюки subj_осень|context|--context-subject="одежда" --query="штаны осенние"|preset=77003033|presets/bucket_271
+костюмы и комбинезоны для детей|для_детей и subj_комбинезон subj_костюм|context|--context-subject="одежда" --query="костюмы и комбинезоны для детей" @sort: --apply-self-ranker=false|preset=77100501&kind=3;5;6|presets/bucket_275
+аксессуары для дома|subj_аксессуар домашний|context|--context-subject="посуда и инвентарь" --query="аксессуары для дома" @sort: --apply-self-ranker=false|preset=77003045|presets/bucket_279
+на стол под тарелки|настольный под_тарелка|context|--context-subject="текстиль для кухни" --query="на стол под тарелки"|preset=77000773|presets/bucket_286
+для чая|для_чай|context|--context-subject="посуда" --query="для чая"|preset=2430|presets/bucket_295
+кошельки и кредитницы для женщин|для_женщина и subj_кошелек subj_кредитница|context|--context-subject="аксессуары" --query="кошельки и кредитницы для женщин" @sort: --apply-self-ranker=false|preset=77100100&kind=0;2|presets/bucket_315
+кошельки и кредитницы для мужчин|для_мужчина и subj_кошелек subj_кредитница|context|--context-subject="аксессуары" --query="кошельки и кредитницы для мужчин" @sort: --apply-self-ranker=false|preset=77100099&kind=0;1|presets/bucket_315
+канцтовары|subj_канцтовар|context|--context-subject="канцелярские товары" --query="канцтовары" @sort: --apply-self-ranker=false|preset=77000087|presets/bucket_319
+кофты и джемперы|subj_джемпер и subj_кофта|context|--context-subject="одежда" --query="кофты и джемперы" @sort: --apply-self-ranker=false|preset=77030134|presets/bucket_328
+автоаксессуары и дополнительное оборудование|subj_автоаксессуар дополнительный и subj_оборудование|context|--context-subject="автомобильные товары" --query="автоаксессуары и дополнительное оборудование"|preset=77080367|presets/bucket_337
+мозайка|мозайка|context|--context-subject="мозаика" --query="мозайка" @sort: --apply-self-ranker=false|preset=10207754|presets/bucket_371
+фрез|фреза|context|--context-subject="фреза" --query="фрез" @sort: --apply-self-ranker=false|preset=10180900|presets/bucket_372
+для микроволновой печи|для_микроволновый subj_печь|context|--context-subject="посуда для микроволновой печи" --query="для микроволновой печи"|preset=77012061|presets/bucket_234
+пылесборник|subj_пылесборник|context|--context-subject="мешки для пылесосов" --query="пылесборник" @sort: --apply-self-ranker=false|preset=10019695|presets/bucket_469
+ванная комната|ванный subj_комната|context|--context-subject="дом" --query="ванная комната"|preset=77001936|presets/bucket_472
+багаж|subj_багаж|context|--context-subject="аксессуары" --query="багаж"|preset=77100210|presets/bucket_401
+груша|subj_груша|context|--context-subject="продукты" --query="груша"|preset=10445|presets/bucket_126
+для офиса|офисный|context|--context-subject="канцелярские товары" --query="для офиса"|preset=77001557|presets/bucket_410
+медицинские приборы|медицинский subj_прибор|context|--context-subject="бытовая техника" --query="медицинские приборы"|preset=77100200|presets/bucket_473
+бумажная упаковка|бумажный subj_упаковка|context|--context-subject="подарочный упаковка" --query="бумажная упаковка" @sort: --apply-self-ranker=false|preset=77000008|presets/bucket_485
+маникюр|subj_маникюр|context|--context-subject="маникюр и педикюр" --query="маникюр"|preset=77004023|presets/bucket_495
+маникюрный и педикюрный набор|для_педикюр и subj_маникюр набор|context|--context-subject="маникюр и педикюр" --query="маникюрный и педикюрный набор" @sort: --apply-self-ranker=false|preset=77000514|presets/bucket_495
+качель|subj_качель|context|--context-subject="качели" --query="качель" @sort: --apply-self-ranker=false|preset=77000869|presets/bucket_508
+шнурок на шею|на_шея subj_шнурок|context|--context-subject="шнурки" --query="шнурок на шею" @sort: --apply-self-ranker=false|preset=77001079|presets/bucket_527
+для сосков|для_соска|context|--context-subject="наклейки на соски" --query="для сосков"|preset=77000881|presets/bucket_533
+подгузники трусы|subj_подгузник subj_трусы|context|--context-subject="трусы для малыша" --query="подгузники трусы" @sort: --apply-self-ranker=false|preset=10000125|presets/bucket_533
+цепь|subj_цепь|context|--context-subject="цепочка" --query="цепь" @sort: --apply-self-ranker=false|preset=77009059|presets/bucket_534
+детская шапка зима|для_детей для_зима subj_шапка|context|--context-subject="детские головные уборы" --query="детская шапка зима" @sort: --apply-self-ranker=false|preset=77000616&season=50;52&kind=3;5;6|presets/bucket_540
+платки и шарфы для женщин|для_женщина и subj_платок subj_шарф|context|--context-subject="аксессуары" --query="платки и шарфы для женщин" @sort: --apply-self-ranker=false|preset=77100532&kind=0;2|presets/bucket_540
+уют|subj_уют|context|--context-subject="дом" --query="уют"|preset=77004097|presets/bucket_556
+макияж|subj_макияж|context|--context-subject="красота" --query="макияж"|preset=22822819|presets/bucket_560
+для штор|для_штора|context|--context-subject="шторы и аксессуары" --query="для штор"|preset=77004115|presets/bucket_567
+бриджи женские одежда|subj_бридж для_женщина subj_одежда|context|--context-subject="одежда" --query="бриджи женские одежда" @sort: --apply-self-ranker=false|preset=10333&kind=0;2|presets/bucket_579
+хозяйственные товары|subj_товар хозяйственный|context|--context-subject="хозяйственные товары" --query="хозяйственные товары"|preset=77001952|presets/bucket_580
+дома и домики|subj_дом subj_дом и|context|--context-subject="игрушки" --query="дома и домики" @sort: --apply-self-ranker=false|preset=77100009|presets/bucket_594
+товар для девочек|для_девочка subj_товар|context|--context-subject="игрушки" --query="товар для девочек" @sort: --apply-self-ranker=false|preset=77100016|presets/bucket_594
+перчатки для уборки|для_уборка subj_перчатка|context|--context-subject="перчатки" --query="перчатки для уборки" @sort: --apply-self-ranker=false|preset=77009035|presets/bucket_606
+аксессуары для женщин|subj_аксессуар для_женщина|context|--context-subject="аксессуары" --query="аксессуары для женщин" @sort: --apply-self-ranker=false|preset=77100082&kind=0;2|presets/bucket_616
+аксессуары мужские|subj_аксессуар для_мужчина|context|--context-subject="аксессуары" --query="аксессуары мужские" @sort: --apply-self-ranker=false|preset=77100083&kind=0;1|presets/bucket_616
+очки и футляры для детей|для_детей и subj_очки subj_футляр|context|--context-subject="аксессуары" --query="очки и футляры для детей" @sort: --apply-self-ranker=false|preset=77100071&kind=3;5;6|presets/bucket_616
+очки и футляры для женщин|для_женщина и subj_очки subj_футляр|context|--context-subject="аксессуары" --query="очки и футляры для женщин" @sort: --apply-self-ranker=false|preset=77100073&kind=0;2|presets/bucket_616
+очки и футляры для мужчин|для_мужчина и subj_очки subj_футляр|context|--context-subject="аксессуары" --query="очки и футляры для мужчин" @sort: --apply-self-ranker=false|preset=77100072&kind=0;1|presets/bucket_616
+подвеска на шею|на_шея subj_подвеска|context|--context-subject="украшение" --query="подвеска на шею" @sort: --apply-self-ranker=false|preset=77019047|presets/bucket_198
+подвеска женская|для_женщина subj_подвеска|context|--context-subject="украшение" --query="подвеска женская" @sort: --apply-self-ranker=false|preset=10147&kind=0;2|presets/bucket_534
+чехлы для машины|для_машина subj_чехол|context|--context-subject="автомобильные товары" --query="чехлы для машины" @sort: --apply-self-ranker=false|preset=77000784|presets/bucket_392
+комплекты белья|белье subj_комплект|context|--context-subject="белье" --query="комплекты белья"|preset=77006014|presets/bucket_396
+комплект одежды|subj_комплект одежда|context|--context-subject="костюмы" --query="комплект одежды"|preset=77015116|presets/bucket_555
+зимний комплект для девочки|для_девочка для_зима subj_комплект|context|--context-subject="одежда" --query="зимний комплект для девочки" @sort: --apply-self-ranker=false|preset=77001562&kind=3;5|presets/bucket_632
+зимний комплект|для_зима subj_комплект|context|--context-subject="одежда" --query="зимний комплект" @sort: --apply-self-ranker=false|preset=77001524|presets/bucket_632
+зимний комплект для мальчика|для_зима для_мальчик subj_комплект|context|--context-subject="одежда" --query="зимний комплект для мальчика" @sort: --apply-self-ranker=false|preset=77001525&kind=3;6|presets/bucket_632
+комплект для девочки|для_девочка subj_комплект|context|--context-subject="одежда" --query="комплект для девочки" @sort: --apply-self-ranker=false|preset=77100503&kind=3;5|presets/bucket_275
+комплекты для мальчиков|для_мальчик subj_комплект|context|--context-subject="одежда" --query="комплекты для мальчиков" @sort: --apply-self-ranker=false|preset=77100508&kind=3;6|presets/bucket_275
+сумки и аксессуары|subj_аксессуар и subj_сумка|context|--context-subject="аксессуары" --query="сумки и аксессуары" @sort: --apply-self-ranker=false|preset=77001145|presets/bucket_734
+сумки и рюкзаки|и subj_рюкзак subj_сумка|context|--context-subject="аксессуары" --query="сумки и рюкзаки" @sort: --apply-self-ranker=false|preset=77100216|presets/bucket_734
+сумки|subj_сумка|context|--context-subject="аксессуары" --query="сумки" @sort: --apply-self-ranker=false|preset=77100203|presets/bucket_734
+лиф|subj_лиф|context|--context-subject="белье" --query="лиф" @sort: --apply-self-ranker=false|preset=77000982|presets/bucket_755
+напитки|subj_напиток|context|--context-subject="продукты" --query="напитки" @sort: --apply-self-ranker=false|preset=77012027|presets/bucket_800
+подкладки под мебель|под_мебель subj_подкладка|context|--context-subject="мебель" --query="подкладки под мебель" @sort: --apply-self-ranker=false|preset=10040952|presets/bucket_670
+экипировка|subj_экипировка|context|--context-subject="спортивная одежда" --query="экипировка"|preset=77001944|presets/bucket_671
+контуринг|контуринг|context|--context-subject="красота" --query="контуринг"|preset=10004558|presets/bucket_677
+чашки|subj_чашка|context|--context-subject="посуда" --query="чашки" @sort: --apply-self-ranker=false|preset=77001346|presets/bucket_690
+баннер|subj_баннер|context|--context-subject="плакаты" --query="баннер" @sort: --apply-self-ranker=false|preset=77100228|presets/bucket_699
+велоспорт|subj_велоспорт|context|--context-subject="спортивный товар" --query="велоспорт"|preset=77001945|presets/bucket_708
+для велосипеда|для_велосипед|context|--context-subject="спортивный товар" --query="для велосипеда"|preset=77001946|presets/bucket_708
+охота|subj_охота|context|--context-subject="спортивный товар" --query="охота"|preset=77100243|presets/bucket_733
+рыбалка|subj_рыбалка|context|--context-subject="спортивный товар" --query="рыбалка" @sort: --apply-self-ranker=false|preset=77100242|presets/bucket_733
+оранжевый|оранжевый|context|--context-subject="одежда" --query="оранжевый"|preset=77000182&color=16753920|presets/bucket_726
+фиолетовый|фиолетовый|context|--context-subject="одежда" --query="фиолетовый"|preset=77001142&color=15631086|presets/bucket_726
